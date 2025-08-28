@@ -1,26 +1,3 @@
-Library/
-Temp/
-Obj/
-Build/
-Builds/
-Logs/
-UserSettings/
-MemoryCaptures/
-*.csproj
-*.sln
-*.user
-*.unityproj
-*.pidb
-*.booproj
-*.svd
-*.pdb
-*.mdb
-*.opendb
-*.VC.db
-.vscode/
-.DS_Store
-Thumbs.db
-
 # Unity
 [Ll]ibrary/
 [Tt]emp/
@@ -28,18 +5,6 @@ Thumbs.db
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-MemoryCaptures/
-.vs/
-*.csproj
-*.sln
-*.user
-*.pidb
-*.booproj
-*.svd
-*.pdb
-*.mdb
-*.opendb
-*.VC.db
-*.DS_Store
-
+[Mm]emoryCaptures/
+.vsconfig
 
